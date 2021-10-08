@@ -39,4 +39,7 @@
  <a href="https://discord.gg/fZSMnZNHk6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mzafram2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-zafra-moreno-09b455214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
+  <br>
+       <b><p>© MiZaMo - mzafram2001 - Miguel Zafra</p></b>
