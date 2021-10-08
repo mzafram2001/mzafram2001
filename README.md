@@ -35,7 +35,7 @@
   <img align="center" alt="MZM-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="MZM-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
 </div>
-<h1 align="center">🎃 My social media & commits 🎃</h1>
+<h1 align="center">🎃 My social media 🎃</h1>
 <div align="center"> 
  <a href="https://discord.gg/fZSMnZNHk6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mzafram2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
