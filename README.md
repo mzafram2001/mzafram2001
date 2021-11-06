@@ -42,4 +42,4 @@
   
 </div>
   <br>
-       <b><p> Miguel Zafra - MiZaMo - mzafram2001 - MZM0102</p></b>
+       <b><p>© Miguel Zafra - MiZaMo - mzafram2001 - MZM0102</p></b>
