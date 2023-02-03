@@ -5,8 +5,8 @@
 <h1 align="center">🚀 My stats 🚀</h1>
 <div align="center">
   <a href="https://github.com/mzafram2001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mzafram2001&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzafram2001&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mzafram2001&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzafram2001&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <h1 align="center">🚀 Known technologies 🚀</h1>
 <div align="center"><br>
