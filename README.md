@@ -8,11 +8,9 @@
 <hr>
 <h1>🔥 My stats ✨</h1>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=mzafram2001&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&card_width=1260px&bg_color=121b22&text_color=117c7b&title_color=11b4bd&icon_color=ac7be1&hide=issues,contribs"/>
-    </div>
- <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzafram2001&layout=compact&langs_count=7&theme=codeSTACKr&card_width=1260px&bg_color=121b22&text_color=117c7b&title_color=11b4bd"/>
-    </div>
+    <img src="https://github-readme-stats.vercel.app/api?username=mzafram2001&show_icons=true&theme=codeSTACKr&include_all_commits=true&card_width=600px&count_private=true&bg_color=121b22&text_color=117c7b&title_color=11b4bd&icon_color=ac7be1&hide=issues,contribs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzafram2001&layout=compact&langs_count=7&theme=codeSTACKr&card_width=350px&bg_color=121b22&text_color=117c7b&title_color=11b4bd"/>
+  </div>
   <div>
     <a href="https://github.com/mzafram2001/zeus-api">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mzafram2001&repo=zeus-api&theme=codeSTACKr&card_width=1260px&bg_color=121b22&text_color=117c7b&title_color=11b4bd&icon_color=ac7be1"/></a>
