@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Welcome to my Github profile 🚀</h1>
   <div align="center">
-    <img alt="MZM-pic" style="border-radius:50px;" src="https://i.pinimg.com/originals/ae/fc/68/aefc681b7b552ad6e1a83f513b529cab.gif">
+    <img alt="MZM-pic" style="border-radius:50px;" src="[[https://ibb.co/hMG4dbL](https://ibb.co/hMG4dbL)](https://ibb.co/hMG4dbL)">
   </div>
 <h1 align="center">🚀 My stats 🚀</h1>
 <div align="center">
