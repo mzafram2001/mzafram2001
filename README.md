@@ -3,24 +3,20 @@
   <div align="center">
     <img alt="MZM-pic" style="border-radius:50px;" src="https://i.ibb.co/3sxjF24/1659725035999.jpg">
   </div>
+  <br>
   <p>Hello👋, my name is Miguel Ángel, although you can call me Miguel. I'm passionate about computing👨🏻‍💻 and sport🎾. Currently I am dedicated to web development,    both in the section of the client's vision (Frontend👀) as in the logic that develops behind the pages (Backend❔), although I defend myself well in the development of desktop⌨ and mobile📱 applications. I love to make projects and see how people around me use and enjoy these same😇.</p>
+<hr>
 <h1>🔥 My stats ✨</h1>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=mzafram2001&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&card_width=250px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzafram2001&layout=compact&langs_count=7&theme=codeSTACKr&card_width=250px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=mzafram2001&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&card_width=1260px&bg_color=121b22&text_color=117c7b&title_color=11b4bd&icon_color=ac7be1&hide=issues,contribs"/>
+    </div>
+ <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzafram2001&layout=compact&langs_count=7&theme=codeSTACKr&card_width=1260px&bg_color=121b22&text_color=117c7b&title_color=11b4bd"/>
+    </div>
+  <div>
     <a href="https://github.com/mzafram2001/zeus-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mzafram2001&repo=zeus-api&theme=codeSTACKr&card_width=250px"/></a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mzafram2001&repo=zeus-api&theme=codeSTACKr&card_width=1260px&bg_color=121b22&text_color=117c7b&title_color=11b4bd&icon_color=ac7be1"/></a>
   </div>
- <details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
-  <br/>
-  <p align="left"><a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a></a> <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </a><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </a>
-  <a href="https://docs.microsoft.com/es-es/dotnet/csharp/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/></a></a><a href="https://developer.android.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/> </a></a><a href="https://dev.java/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a><a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a><a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://unity.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/><a> 
-  <a href="https://www.oracle.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a><a href="https://httpd.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40"/> </a> 
-  </p>
-</details>
-    <br>
-    <p><b>© Miguel Zafra - MiZaMo - mzafram2001 - MZM0102 - Zafreus</b></p>
+<hr>
+    <p><b>© Miguel Zafra | 2020 - 2023</b></p>
 </div>
