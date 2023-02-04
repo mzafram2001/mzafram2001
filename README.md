@@ -14,6 +14,8 @@
   <div>
     <a href="https://github.com/mzafram2001/zeus-api">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mzafram2001&repo=zeus-api&theme=codeSTACKr&card_width=1200px&bg_color=121b22&text_color=117c7b&title_color=11b4bd&icon_color=ac7be1"/></a>
+    <a href="https://github.com/mzafram2001/mzafram2001">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mzafram2001&repo=mzafram2001&theme=codeSTACKr&card_width=1200px&bg_color=121b22&text_color=117c7b&title_color=11b4bd&icon_color=ac7be1"/></a>
   </div>
 <hr>
     <p><b>© Miguel Zafra | 2020 - 2023</b></p>
