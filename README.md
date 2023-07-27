@@ -5,7 +5,8 @@
 Full stack developer who enjoys making web applications. <br>
 Most of my projects will keep private.
 </div>
-
+<br>
+<br>
 <h3 align="center">Languages/Runtimes</h3>
 <div align="center" style="margin-top: 10px">
     <img src="https://skillicons.dev/icons?i=html,css,c,cs,javascript,typescript,php,nodejs,java&theme=dark" />
