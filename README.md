@@ -19,7 +19,7 @@ Most of my projects will keep private.
 
 <h3 align="center">Tools</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell,git,github,githubactions&theme=dark" />
 </div>
 
 <h3 align="center">Databases</h3>
