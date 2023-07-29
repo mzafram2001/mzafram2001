@@ -47,7 +47,7 @@ Hi! I'm a Full Stack developer with an unwavering love for building web applicat
     <th>Other</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres&theme=dark" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=ps,bootstrap&theme=dark" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=firebase,heroku,cloudflare,wordpress,raspberrypi,unity&theme=dark" /></td>
   </tr>
