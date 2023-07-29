@@ -41,8 +41,6 @@ Hi! I'm a Full Stack developer with an unwavering love for building web applicat
     <td><img src="https://skillicons.dev/icons?i=angular,react,vue&theme=dark" /></td>
     <td><img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell,git,github,githubactions&theme=dark" /></td>
   </tr>
-</table>
-<table>
   <tr>
     <th>Databases</th>
     <th>Design</th>
@@ -54,3 +52,5 @@ Hi! I'm a Full Stack developer with an unwavering love for building web applicat
     <td><img src="https://skillicons.dev/icons?i=firebase,heroku,cloudflare,wordpress,raspberrypi,unity&theme=dark" /></td>
   </tr>
 </table>
+
+## ...
