@@ -8,24 +8,24 @@ Hi! I'm a Full Stack developer with an unwavering love for building web applicat
 ## My Projects
 <table>
   <tr>
-    <th><img src="https://i.ibb.co/9qsmyj8/Pyrite-Banner-Outro-No-Bg.png"></th>
-    <th><img src="https://i.ibb.co/vJPXHXd/Emerald-Banner-Outro-No-Bg.png"></th>
-    <th><img src="https://i.ibb.co/D9wXNgK/Ruby-Banner-Outro-No-Bg.png"></th>
+    <th><b>Pyrite</b></th>
+    <th><b>Emerald</b></th>
+    <th><b>Ruby</b></th>
   </tr>
   <tr>
-    <td><b>Pyrite</b></td>
-    <td><b>Emerald</b></td>
-    <td><b>Ruby</b></td>
+    <td><img src="https://i.ibb.co/9qsmyj8/Pyrite-Banner-Outro-No-Bg.png"></td>
+    <td><img src="https://i.ibb.co/vJPXHXd/Emerald-Banner-Outro-No-Bg.png"></td>
+    <td><img src="https://i.ibb.co/D9wXNgK/Ruby-Banner-Outro-No-Bg.png"></td>
   </tr>
   <tr>
-    <th><img src="https://i.ibb.co/KWrpQLq/Sapphire-Banner-Outro-No-Bg.png"></th>
+    <th><b>Sapphire</b></th>
     <th>???</th>
     <th>???</th>
   </tr>
   <tr>
-    <td><b>Sapphire</b></td>
-    <td><b>???</b></td>
-    <td><b>???</b></td>
+    <td><img src="https://i.ibb.co/KWrpQLq/Sapphire-Banner-Outro-No-Bg.png"></td>
+    <td align="center"><b>???</b></td>
+    <td align="center"><b>???</b></td>
   </tr>
 </table>
 
@@ -37,9 +37,9 @@ Hi! I'm a Full Stack developer with an unwavering love for building web applicat
     <th>Tools</th>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=html,css,c,cs,javascript,typescript,php,nodejs,java&theme=dark" /></td>
-    <td><img src="https://skillicons.dev/icons?i=angular,react,vue&theme=dark" /></td>
-    <td><img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell,git,github,githubactions&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html,css,c,cs,javascript,typescript,php,nodejs,java&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=angular,react,vue&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell,git,github,githubactions&theme=dark" /></td>
   </tr>
   <tr>
     <th>Databases</th>
@@ -47,9 +47,9 @@ Hi! I'm a Full Stack developer with an unwavering love for building web applicat
     <th>Other</th>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" /></td>
-    <td><img src="https://skillicons.dev/icons?i=ps,bootstrap&theme=dark" /></td>
-    <td><img src="https://skillicons.dev/icons?i=firebase,heroku,cloudflare,wordpress,raspberrypi,unity&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ps,bootstrap&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase,heroku,cloudflare,wordpress,raspberrypi,unity&theme=dark" /></td>
   </tr>
 </table>
 
