@@ -11,11 +11,13 @@ Hi! I'm a Full Stack developer with an unwavering love for building web applicat
     <th><img src="https://i.ibb.co/9qsmyj8/Pyrite-Banner-Outro-No-Bg.png"></th>
     <th><img src="https://i.ibb.co/vJPXHXd/Emerald-Banner-Outro-No-Bg.png"></th>
     <th><img src="https://i.ibb.co/D9wXNgK/Ruby-Banner-Outro-No-Bg.png"></th>
+    <th><img src="https://i.ibb.co/KWrpQLq/Sapphire-Banner-Outro-No-Bg.png"></th>
   </tr>
   <tr>
     <td><b>Pyrite</b></td>
     <td><b>Emerald</b></td>
     <td><b>Ruby</b></td>
+    <td><b>Sapphire</b></td>
   </tr>
 </table>
 
