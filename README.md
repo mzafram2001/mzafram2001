@@ -58,12 +58,10 @@
   <tr>
     <th>Stats</th>
     <th>Streak</th>
-    <th>Trends</th>
   </tr>
   <tr>
     <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=mzafram2001&theme=dark&show_icons=true&hide_border=false&count_private=true" /></td>
     <td align="center"><img src="https://streak-stats.demolab.com?user=mzafram2001&theme=dark" /></td>
-    <td align="center"><img src="https://api.githubtrends.io/user/svg/mzafram2001/langs?time_range=one_year&include_private=True&compact=True&theme=dark" /></td>
   </tr>
 </table>
 
