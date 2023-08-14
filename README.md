@@ -53,6 +53,18 @@
   </tr>
 </table>
 
+## My Stats
+<table>
+  <tr>
+    <th>Streak</th>
+    <th>Trends</th>
+  </tr>
+  <tr>
+    <td>[![GitHub Streak](https://streak-stats.demolab.com?user=mzafram2001&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)</td>
+    <td></td>
+  </tr>
+</table>
+
 ## Conclusion
 <div>
 🌐 In a constantly evolving digital world, my goal is to continue contributing to technological growth by creating innovative and functional solutions. I am always willing to face new challenges and learn from every experience to take my skills to the next level.
