@@ -2,7 +2,7 @@
 
 ## About Me
 <div>
-Hi! I'm a Full Stack developer with an unwavering love for building web applications. From a young age, technology has been an essential part of my life and finding my way into the world of development has been an exciting and rewarding journey.
+👋 Hi! I'm Miguel, a passionate Senior Technician in Multiplatform Application Development and Full Stack Developer. My passion for technology and programming has led me to turn ideas into high performance and usability digital solutions.
 </div>
 
 ## My Projects
@@ -55,5 +55,5 @@ Hi! I'm a Full Stack developer with an unwavering love for building web applicat
 
 ## Conclusion
 <div>
-In short, I am a passionate Full Stack developer who finds joy in transforming ideas into functional and aesthetically appealing web applications. I am always excited for new projects and challenges that allow me to continue to grow as a professional and contribute to the exciting world of web application development and I look forward to what the future has in store for me in this exciting technological field!
+🌐 In a constantly evolving digital world, my goal is to continue contributing to technological growth by creating innovative and functional solutions. I am always willing to face new challenges and learn from every experience to take my skills to the next level.
 </div>
