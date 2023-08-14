@@ -8,22 +8,22 @@
 ## My Projects
 <table>
   <tr>
-    <th><b>Pyrite</b></th>
-    <th><b>Emerald</b></th>
-    <th><b>Ruby</b></th>
+    <th><a href="https://github.com/mzafram2001/pyrite"><b>Pyrite</b></a></th>
+    <th><a href="https://github.com/mzafram2001/emerald"><b>Emerald</b></a></th>
+    <th><a href="https://github.com/mzafram2001/ruby"><b>Ruby</b></a></th>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/9qsmyj8/Pyrite-Banner-Outro-No-Bg.png"></td>
-    <td><img src="https://i.ibb.co/vJPXHXd/Emerald-Banner-Outro-No-Bg.png"></td>
-    <td><img src="https://i.ibb.co/D9wXNgK/Ruby-Banner-Outro-No-Bg.png"></td>
+    <td><a href="https://github.com/mzafram2001/pyrite"><img src="https://i.ibb.co/9qsmyj8/Pyrite-Banner-Outro-No-Bg.png"></a></td>
+    <td><a href="https://github.com/mzafram2001/emerald"><img src="https://i.ibb.co/vJPXHXd/Emerald-Banner-Outro-No-Bg.png"></a></td>
+    <td><a href="https://github.com/mzafram2001/ruby"><img src="https://i.ibb.co/D9wXNgK/Ruby-Banner-Outro-No-Bg.png"></a></td>
   </tr>
   <tr>
-    <th><b>Sapphire</b></th>
+    <th><a href="https://github.com/mzafram2001/sapphire"><b>Sapphire</b></a></th>
     <th>???</th>
     <th>???</th>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/KWrpQLq/Sapphire-Banner-Outro-No-Bg.png"></td>
+    <td><a href="https://github.com/mzafram2001/sapphire"><img src="https://i.ibb.co/KWrpQLq/Sapphire-Banner-Outro-No-Bg.png"></a></td>
     <td align="center"><b>???</b></td>
     <td align="center"><b>???</b></td>
   </tr>
