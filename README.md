@@ -13,7 +13,7 @@
     <th><a href="https://github.com/mzafram2001/ruby"><b>Ruby</b></a></th>
   </tr>
   <tr>
-    <td><a href="https://github.com/mzafram2001/pyrite"><img src="https://i.ibb.co/9qsmyj8/Pyrite-Banner-Outro-No-Bg.png"></a></td>
+    <td><a href="https://github.com/mzafram2001/pyrite"><img src="https://i.ibb.co/1rWQ81t/Pyrite-Banner.png"></a></td>
     <td><a href="https://github.com/mzafram2001/emerald"><img src="https://i.ibb.co/vJPXHXd/Emerald-Banner-Outro-No-Bg.png"></a></td>
     <td><a href="https://github.com/mzafram2001/ruby"><img src="https://i.ibb.co/D9wXNgK/Ruby-Banner-Outro-No-Bg.png"></a></td>
   </tr>
