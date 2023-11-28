@@ -10,20 +10,20 @@
   <tr>
     <th><a href="https://github.com/mzafram2001/pyrite"><b>Pyrite</b></a></th>
     <th><a href="https://github.com/mzafram2001/emerald"><b>Emerald</b></a></th>
-    <th><a href="https://github.com/mzafram2001/ruby"><b>Ruby</b></a></th>
+    <th>???</th>
   </tr>
   <tr>
     <td><a href="https://github.com/mzafram2001/pyrite"><img src="https://i.ibb.co/1rWQ81t/Pyrite-Banner.png"></a></td>
     <td><a href="https://github.com/mzafram2001/emerald"><img src="https://i.ibb.co/vJPXHXd/Emerald-Banner-Outro-No-Bg.png"></a></td>
-    <td><a href="https://github.com/mzafram2001/ruby"><img src="https://i.ibb.co/D9wXNgK/Ruby-Banner-Outro-No-Bg.png"></a></td>
+    <td align="center"><b>???</b></td>
   </tr>
   <tr>
-    <th><a href="https://github.com/mzafram2001/sapphire"><b>Sapphire</b></a></th>
+    <th>???</th>
     <th>???</th>
     <th>???</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/mzafram2001/sapphire"><img src="https://i.ibb.co/KWrpQLq/Sapphire-Banner-Outro-No-Bg.png"></a></td>
+    <td align="center"><b>???</b></td>
     <td align="center"><b>???</b></td>
     <td align="center"><b>???</b></td>
   </tr>
