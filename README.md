@@ -41,17 +41,11 @@
   </tr>
 </table>
 
-## My Stats
-<table>
-  <tr>
-    <th>Stats</th>
-    <th>Streak</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=mzafram2001&theme=dark&show_icons=true&hide_border=false&count_private=true" /></td>
-    <td align="center"><img src="https://streak-stats.demolab.com?user=mzafram2001&theme=dark" /></td>
-  </tr>
-</table>
+## My Themes
+<p>Coming soon...</p>
+
+## My Dojo
+<p>Coming soon...</p>
 
 ## Conclusion
 <div>
