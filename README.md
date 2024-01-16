@@ -17,8 +17,8 @@
   </tr>
 </table>
 
-## My Stack
-<!--<table>
+<!--## My Stack
+<table>
   <tr>
     <th>Languages/Runtimes</th>
     <th>Frameworks</th>
