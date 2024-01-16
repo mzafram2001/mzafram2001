@@ -41,10 +41,10 @@
   </tr>
 </table>-->
 
-## My Themes
+## My Themes (COMING SOON...)
 <p>Coming soon...</p>
 
-## My Dojo
+## My Dojo - Codewars (COMING SOON...)
 <p>Coming soon...</p>
 
 ## Conclusion
