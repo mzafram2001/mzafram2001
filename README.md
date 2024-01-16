@@ -18,7 +18,7 @@
 </table>
 
 ## My Stack
-<table>
+<!--<table>
   <tr>
     <th>Languages/Runtimes</th>
     <th>Frameworks</th>
@@ -39,7 +39,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=ps,bootstrap&theme=dark" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=firebase,heroku,cloudflare,wordpress,raspberrypi,unity&theme=dark" /></td>
   </tr>
-</table>
+</table>-->
 
 ## My Themes
 <p>Coming soon...</p>
