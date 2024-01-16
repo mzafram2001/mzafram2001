@@ -5,11 +5,11 @@
 👋 Hi! I'm Miguel, a passionate Senior Technician in Multiplatform Application Development and Full Stack Developer. My passion for technology and programming has led me to turn ideas into high performance and usability digital solutions.
 </div>
 
-## My Projects
+## My Projects (REWORKING!)
 <table>
   <tr>
-    <th><a href="https://github.com/mzafram2001/pyrite"><b>Pyrite</b></a></th>
-    <th><a href="https://github.com/mzafram2001/emerald"><b>Emerald</b></a></th>
+    <th><a href="https://github.com/mzafram2001/pyrite"><b>Pyrite (REWORKING!)</b></a></th>
+    <th><a href="https://github.com/mzafram2001/emerald"><b>Emerald (REWORKING!)</b></a></th>
   </tr>
   <tr>
     <td><a href="https://github.com/mzafram2001/pyrite"><img src="https://i.ibb.co/1rWQ81t/Pyrite-Banner.png"></a></td>
