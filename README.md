@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient&customColorList=5" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=1b837b&section=header&reversal=false" />
 
 ## About Me
 <div>
@@ -51,3 +51,5 @@
 <div>
 🌐 In a constantly evolving digital world, my goal is to continue contributing to technological growth by creating innovative and functional solutions. I am always willing to face new challenges and learn from every experience to take my skills to the next level.
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=1b837b&section=footer&reversal=true" />
