@@ -44,8 +44,8 @@
 ## My Themes (COMING SOON...)
 <p>Coming soon...</p>
 
-## My Dojo - Codewars (COMING SOON...)
-<p>Coming soon...</p>
+## My Dojo - Codewars
+<a href="https://github.com/mzafram2001/my-dojo"><b>My Dojo</b></a>
 
 ## Conclusion
 <div>
