@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 <div>
-Hi! I'm Miguel, a passionate Full Stack Developer. My passion for technology and programming has led me to turn ideas into high performance and usability digital solutions. Currently working for <a href="https://www.suministrosgame.es" target="_blank">Suministros Game</a>. Living in ES Barcelona, Spain.
+Hi! I'm Miguel, a passionate Full Stack Developer. My passion for technology and programming has led me to turn ideas into high performance and usability digital solutions. Currently working for <a href="https://www.suministrosgame.es" target="_blank">Suministros Game</a>. Living in 🇪🇸 Barcelona, Spain.
 </div>
 
 ## 👨‍💻 My Projects (REWORKING!)
