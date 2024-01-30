@@ -45,7 +45,15 @@
 <p>Coming soon...</p>
 
 ## My Dojo - Codewars
-<a href="https://github.com/mzafram2001/my-dojo"><b>My Dojo</b></a>
+🗼 Welcome to my repository of solutions to Codewars Kata! Here you will find a collection of my solutions to various Codewars programming challenges, organized by difficulty level and programming language.
+<table>
+  <tr>
+    <th><a href="https://github.com/mzafram2001/my-dojo"><b>My Dojo</b></a></th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mzafram2001/my-dojo"><img src="https://i.ibb.co/x69Gkfm/my-dojo.png" width="150" height="150"></a></td>
+  </tr>
+</table>
 
 ## Conclusion
 <div>
