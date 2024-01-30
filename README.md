@@ -1,11 +1,15 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=1b837b&section=header&reversal=false" />
 
-## 👋 About Me
+## 👋 About Me / Sobre Mí
 <div>
-Hi! I'm Miguel, a passionate Full Stack Developer. My passion for technology and programming has led me to turn ideas into high performance and usability digital solutions. Currently working for <a href="https://www.suministrosgame.es" target="_blank">Suministros Game</a>. Living in 🇪🇸 Barcelona, Spain.
+🇬🇧 Hi! I'm Miguel, a passionate Full Stack Developer. My passion for technology and programming has led me to turn ideas into high performance and usability digital solutions. Currently working for <a href="https://www.suministrosgame.es" target="_blank">Suministros Game</a>. Living in 🇪🇸 Barcelona, Spain.
+</div>
+<br>
+<div>
+🇪🇸 Hola, soy Miguel, un apasionado Full Stack Developer. Mi pasión por la tecnología y la programación me ha llevado a convertir ideas en soluciones digitales de alto rendimiento y usabilidad. Actualmente trabajo para <a href="https://www.suministrosgame.es" target="_blank">Suministros Game</a>. Vivo en 🇪🇸 Barcelona, España.
 </div>
 
-## 👨‍💻 My Projects (REWORKING!)
+## 👨‍💻 My Projects / Mis Proyectos
 <table>
   <tr>
     <th><a href="https://github.com/mzafram2001/pyrite"><b>Pyrite (REWORKING!)</b></a></th>
@@ -41,11 +45,24 @@ Hi! I'm Miguel, a passionate Full Stack Developer. My passion for technology and
   </tr>
 </table>-->
 
-## 📙 My Themes (COMING SOON...)
-<p>Coming soon...</p>
+## 📙 My Themes / Mis Temas
+<div>
+🇬🇧 Coming soon...
+</div>
+<br>
+<div>
+🇪🇸 Próximamente...
+</div>
 
-## 🗼 My Dojo - Codewars
-Welcome to my repository of solutions to <a href="https://www.codewars.com" target="_blank">Codewars</a> Kata! Here you will find a collection of my solutions to various Codewars programming challenges, organized by difficulty level and programming language.
+## 🗼 My Dojo / Mi Dojo - Codewars
+<div>
+🇬🇧 Welcome to my repository of solutions to <a href="https://www.codewars.com" target="_blank">Codewars</a> Kata! Here you will find a collection of my solutions to various Codewars programming challenges, organized by difficulty level and programming language.
+</div>
+<br>
+<div>
+🇪🇸 ¡Bienvenido a mi repositorio de soluciones a <a href="https://www.codewars.com" target="_blank">Codewars</a> Kata! Aquí encontrarás una colección de mis soluciones a varios retos de programación de Codewars, organizadas por nivel de dificultad y lenguaje de programación.
+</div>
+<br>
 <table>
   <tr>
     <th><a href="https://github.com/mzafram2001/my-dojo"><b>My Dojo - General</b></a></th>
@@ -61,13 +78,17 @@ Welcome to my repository of solutions to <a href="https://www.codewars.com" targ
   </tr>
 </table>
 
-## 🔗 Contact me
+## 🔗 Contact me / Contáctame
 <p>
  <a href = "mailto:mzafram2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/miguel-angel-zafra-moreno-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
-## 🌱 Conclusion
+## 🌱 Conclusion / Conclusión
 <div>
-In a constantly evolving digital world, my goal is to continue contributing to technological growth by creating innovative and functional solutions. I am always willing to face new challenges and learn from every experience to take my skills to the next level.
+🇬🇧 In a constantly evolving digital world, my goal is to continue contributing to technological growth by creating innovative and functional solutions. I am always willing to face new challenges and learn from every experience to take my skills to the next level.
+</div>
+<br>
+<div>
+🇪🇸 En un mundo digital en constante evolución, mi objetivo es seguir contribuyendo al crecimiento tecnológico creando soluciones innovadoras y funcionales. Siempre estoy dispuesto a afrontar nuevos retos y aprender de cada experiencia para llevar mis habilidades al siguiente nivel.
 </div>
