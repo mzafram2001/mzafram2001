@@ -79,6 +79,7 @@
 <div>
   🇬🇧 Contact me and let's chat for a while.
 </div>
+<br>
 <div>
   🇪🇸 Ponte en contacto conmigo y charlemos un rato.
 </div>
