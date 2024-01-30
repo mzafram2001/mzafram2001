@@ -1,11 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=1b837b&section=header&reversal=false" />
 
-## About Me
+## 👋 About Me
 <div>
-👋 Hi! I'm Miguel, a passionate Senior Technician in Multiplatform Application Development and Full Stack Developer. My passion for technology and programming has led me to turn ideas into high performance and usability digital solutions.
+Hi! I'm Miguel, a passionate Full Stack Developer. My passion for technology and programming has led me to turn ideas into high performance and usability digital solutions. Currently working for <a href="suministrosgame.es" target="_blank">Suministros Game</a>. Living in ES Barcelona, Spain.
 </div>
 
-## My Projects (REWORKING!)
+## 👨‍💻 My Projects (REWORKING!)
 <table>
   <tr>
     <th><a href="https://github.com/mzafram2001/pyrite"><b>Pyrite (REWORKING!)</b></a></th>
@@ -41,11 +41,11 @@
   </tr>
 </table>-->
 
-## My Themes (COMING SOON...)
+## 📙 My Themes (COMING SOON...)
 <p>Coming soon...</p>
 
-## My Dojo - Codewars
-🗼 Welcome to my repository of solutions to Codewars Kata! Here you will find a collection of my solutions to various Codewars programming challenges, organized by difficulty level and programming language.
+## 🗼 My Dojo - Codewars
+Welcome to my repository of solutions to Codewars Kata! Here you will find a collection of my solutions to various Codewars programming challenges, organized by difficulty level and programming language.
 <table>
   <tr>
     <th><a href="https://github.com/mzafram2001/my-dojo"><b>My Dojo - General</b></a></th>
@@ -61,7 +61,13 @@
   </tr>
 </table>
 
-## Conclusion
+## 🔗 Contact me :
+<p>
+ <a href = "mailto:mzafram2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/miguel-angel-zafra-moreno-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
+
+## 🌱 Conclusion
 <div>
-🌐 In a constantly evolving digital world, my goal is to continue contributing to technological growth by creating innovative and functional solutions. I am always willing to face new challenges and learn from every experience to take my skills to the next level.
+In a constantly evolving digital world, my goal is to continue contributing to technological growth by creating innovative and functional solutions. I am always willing to face new challenges and learn from every experience to take my skills to the next level.
 </div>
