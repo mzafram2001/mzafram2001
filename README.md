@@ -42,10 +42,12 @@
   <tr>
     <th><a href="#"><b>???</b></a></th>
     <th><a href="#"><b>???</b></a></th>
+    <th><a href="#"><b>???</b></a></th>
   </tr>
   <tr>
     <td><a href="#"><img src="https://i.ibb.co/N1PX3Np/zeus-theme.png" width="150" height="150"></a></td>
     <td><a href="#"><img src="https://i.ibb.co/d0RppxZ/tsukuyomi-theme.png" width="150" height="150"></a></td>
+    <td><a href="#"><img src="https://i.ibb.co/MkRmv1s/skadi-theme.png" width="150" height="150"></a></td>
   </tr>
 </table>
 
