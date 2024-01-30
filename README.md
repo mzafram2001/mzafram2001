@@ -75,7 +75,7 @@
   </tr>
 </table>
 
-## 🔗 Contact me / Contáctame
+## 💬 Contact me / Contáctame
 <div>
   🇬🇧 Contact me and let's chat for a while.
 </div>
