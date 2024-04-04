@@ -20,12 +20,12 @@
 <br>
 <table>
   <tr>
-    <th><a href="https://github.com/mzafram2001/pyrite"><b>Pyrite APP (REWORKING!) -> Wheatr</b></a></th>
-    <th><a href="https://github.com/mzafram2001/emerald"><b>Zeus API + APP (REWORKING!) -> Shootr</b></a></th>
+    <th><a href="https://arkeos-pyrite.web.app" target="_blank"><b>Pyrite APP (REWORKING!) -> Wheatr</b></a></th>
+    <th><a href="https://olympus-zeus-app.web.app" target="_blank"><b>Zeus API + APP (REWORKING!) -> Shootr</b></a></th>
   </tr>
   <tr>
-    <td><a href="https://arkeos-pyrite.web.app"><img src="https://i.ibb.co/1rWQ81t/Pyrite-Banner.png"></a></td>
-    <td><a href="https://olympus-zeus-app.web.app"><img src="https://i.ibb.co/B41pG5p/zeus-banner.png"></a></td>
+    <td><a href="https://arkeos-pyrite.web.app" target="_blank"><img src="https://i.ibb.co/1rWQ81t/Pyrite-Banner.png"></a></td>
+    <td><a href="https://olympus-zeus-app.web.app" target="_blank"><img src="https://i.ibb.co/B41pG5p/zeus-banner.png"></a></td>
   </tr>
 </table>
 
@@ -40,14 +40,14 @@
 <br>
 <table>
   <tr>
-    <th><a href="https://github.com/mzafram2001/zeus"><b>Zeus</b></a></th>
-    <th><a href="https://github.com/mzafram2001/tsukuyomi"><b>Tsukuyomi</b></a></th>
+    <th><a href="https://github.com/mzafram2001/zeus" target="_blank"><b>Zeus</b></a></th>
+    <th><a href="https://github.com/mzafram2001/tsukuyomi" target="_blank"><b>Tsukuyomi</b></a></th>
     <th><a href="#"><b>???</b></a></th>
   </tr>
   <tr>
-    <td><a href="https://github.com/mzafram2001/zeus"><img src="https://i.ibb.co/N1PX3Np/zeus-theme.png"></a></td>
-    <td><a href="https://github.com/mzafram2001/tsukuyomi"><img src="https://i.ibb.co/d0RppxZ/tsukuyomi-theme.png"></a></td>
-    <td><a href="#"><img src="https://i.ibb.co/MkRmv1s/skadi-theme.png"></a></td>
+    <td><a href="https://github.com/mzafram2001/zeus" target="_blank"><img src="https://i.ibb.co/N1PX3Np/zeus-theme.png"></a></td>
+    <td><a href="https://github.com/mzafram2001/tsukuyomi" target="_blank"><img src="https://i.ibb.co/d0RppxZ/tsukuyomi-theme.png"></a></td>
+    <td><a href="#"><img src="https://i.ibb.co/MkRmv1s/skadi-theme.png" target="_blank"></a></td>
   </tr>
 </table>
 
@@ -62,14 +62,14 @@
 <br>
 <table>
   <tr>
-    <th><a href="https://github.com/mzafram2001/my-dojo/tree/main/JS"><b>My Dojo - JS</b></a></th>
-    <th><a href="https://github.com/mzafram2001/my-dojo/tree/main/C"><b>My Dojo - C</b></a></th>
-    <th><a href="https://github.com/mzafram2001/my-dojo/tree/main/PHP"><b>My Dojo - PHP</b></a></th>
+    <th><a href="https://github.com/mzafram2001/my-dojo/tree/main/JS" target="_blank"><b>My Dojo - JS</b></a></th>
+    <th><a href="https://github.com/mzafram2001/my-dojo/tree/main/C" target="_blank"><b>My Dojo - C</b></a></th>
+    <th><a href="https://github.com/mzafram2001/my-dojo/tree/main/PHP" target="_blank"><b>My Dojo - PHP</b></a></th>
   </tr>
   <tr>
-    <td><a href="https://github.com/mzafram2001/my-dojo"><img src="https://i.ibb.co/6BzxQ2F/js-svgrepo-com.png"></a></td>
-    <td><a href="https://github.com/mzafram2001/my-dojo"><img src="https://i.ibb.co/fQjm8Sf/c-svgrepo-com.png"></a></td>
-    <td><a href="https://github.com/mzafram2001/my-dojo"><img src="https://i.ibb.co/C9CMQct/php-svgrepo-com.png"></a></td>
+    <td><a href="https://github.com/mzafram2001/my-dojo" target="_blank"><img src="https://i.ibb.co/6BzxQ2F/js-svgrepo-com.png"></a></td>
+    <td><a href="https://github.com/mzafram2001/my-dojo" target="_blank"><img src="https://i.ibb.co/fQjm8Sf/c-svgrepo-com.png"></a></td>
+    <td><a href="https://github.com/mzafram2001/my-dojo" target="_blank"><img src="https://i.ibb.co/C9CMQct/php-svgrepo-com.png"></a></td>
   </tr>
 </table>
 
@@ -82,7 +82,7 @@
   🇪🇸 Ponte en contacto conmigo y charlemos un rato.
 </div>
 <br>
-<a href = "mailto:mzafram2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:mzafram2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/miguel-angel-zafra-moreno-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## 🌱 Conclusion / Conclusión
