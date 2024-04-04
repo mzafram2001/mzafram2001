@@ -20,7 +20,7 @@
 <br>
 <table>
   <tr>
-    <th><a href="https://github.com/mzafram2001/pyrite"><b>Pyrite APP (REWORKING!)-> Wheatr</b></a></th>
+    <th><a href="https://github.com/mzafram2001/pyrite"><b>Pyrite APP (REWORKING!) -> Wheatr</b></a></th>
     <th><a href="https://github.com/mzafram2001/emerald"><b>Zeus API + APP (REWORKING!) -> Shootr</b></a></th>
   </tr>
   <tr>
