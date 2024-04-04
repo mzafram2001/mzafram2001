@@ -41,7 +41,7 @@
 <table>
   <tr>
     <th><a href="https://github.com/mzafram2001/zeus"><b>Zeus</b></a></th>
-    <th><a href="#"><b>???</b></a></th>
+    <th><a href="https://github.com/mzafram2001/tsukuyomi"><b>Tsukuyomi</b></a></th>
     <th><a href="#"><b>???</b></a></th>
   </tr>
   <tr>
@@ -62,13 +62,11 @@
 <br>
 <table>
   <tr>
-    <th><a href="https://github.com/mzafram2001/my-dojo"><b>My Dojo - General</b></a></th>
     <th><a href="https://github.com/mzafram2001/my-dojo/tree/main/JS"><b>My Dojo - JS</b></a></th>
     <th><a href="https://github.com/mzafram2001/my-dojo/tree/main/C"><b>My Dojo - C</b></a></th>
     <th><a href="https://github.com/mzafram2001/my-dojo/tree/main/PHP"><b>My Dojo - PHP</b></a></th>
   </tr>
   <tr>
-    <td><a href="https://github.com/mzafram2001/my-dojo"><img src="https://i.ibb.co/x69Gkfm/my-dojo.png"></a></td>
     <td><a href="https://github.com/mzafram2001/my-dojo"><img src="https://i.ibb.co/6BzxQ2F/js-svgrepo-com.png"></a></td>
     <td><a href="https://github.com/mzafram2001/my-dojo"><img src="https://i.ibb.co/fQjm8Sf/c-svgrepo-com.png"></a></td>
     <td><a href="https://github.com/mzafram2001/my-dojo"><img src="https://i.ibb.co/C9CMQct/php-svgrepo-com.png"></a></td>
