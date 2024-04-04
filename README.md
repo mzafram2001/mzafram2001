@@ -20,12 +20,12 @@
 <br>
 <table>
   <tr>
-    <th><a href="https://github.com/mzafram2001/pyrite"><b>Pyrite (REWORKING!)</b></a></th>
-    <th><a href="https://github.com/mzafram2001/emerald"><b>Emerald (REWORKING!)</b></a></th>
+    <th><a href="https://github.com/mzafram2001/pyrite"><b>Pyrite APP (REWORKING!)-> Wheatr</b></a></th>
+    <th><a href="https://github.com/mzafram2001/emerald"><b>Zeus API + APP (REWORKING!) -> Shootr</b></a></th>
   </tr>
   <tr>
-    <td><a href="https://github.com/mzafram2001/pyrite"><img src="https://i.ibb.co/1rWQ81t/Pyrite-Banner.png"></a></td>
-    <td><a href="https://github.com/mzafram2001/emerald"><img src="https://i.ibb.co/vJPXHXd/Emerald-Banner-Outro-No-Bg.png"></a></td>
+    <td><a href="https://arkeos-pyrite.web.app"><img src="https://i.ibb.co/1rWQ81t/Pyrite-Banner.png"></a></td>
+    <td><a href="https://olympus-zeus-app.web.app"><img src="https://i.ibb.co/B41pG5p/zeus-banner.png"></a></td>
   </tr>
 </table>
 
