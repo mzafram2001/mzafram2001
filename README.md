@@ -46,7 +46,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/mzafram2001/zeus"><img src="https://i.ibb.co/N1PX3Np/zeus-theme.png"></a></td>
-    <td><a href="#"><img src="https://i.ibb.co/d0RppxZ/tsukuyomi-theme.png"></a></td>
+    <td><a href="https://github.com/mzafram2001/tsukuyomi"><img src="https://i.ibb.co/d0RppxZ/tsukuyomi-theme.png"></a></td>
     <td><a href="#"><img src="https://i.ibb.co/MkRmv1s/skadi-theme.png"></a></td>
   </tr>
 </table>
