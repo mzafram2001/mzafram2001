@@ -24,8 +24,8 @@
     <th><a href="https://olympus-zeus-app.web.app" target="_blank"><b>Zeus API + APP (REWORKING!) -> Shootr</b></a></th>
   </tr>
   <tr>
-    <td><a href="https://arkeos-pyrite.web.app" target="_blank"><img src="https://i.ibb.co/1rWQ81t/Pyrite-Banner.png"></a></td>
-    <td><a href="https://olympus-zeus-app.web.app" target="_blank"><img src="https://i.ibb.co/B41pG5p/zeus-banner.png"></a></td>
+    <td><a href="https://arkeos-pyrite.web.app" target="_blank"><img src="https://raw.githubusercontent.com/mzafram2001/mzafram2001/main/readme-src/Pyrite1.png"></a></td>
+    <td><a href="https://olympus-zeus-app.web.app" target="_blank"><img src="https://raw.githubusercontent.com/mzafram2001/mzafram2001/main/readme-src/Zeus1.png"></a></td>
   </tr>
 </table>
 
@@ -42,12 +42,12 @@
   <tr>
     <th><a href="https://github.com/mzafram2001/zeus" target="_blank"><b>Zeus</b></a></th>
     <th><a href="https://github.com/mzafram2001/tsukuyomi" target="_blank"><b>Tsukuyomi</b></a></th>
-    <th><a href="#"><b>???</b></a></th>
+    <th><a href="#"><b>Skadi</b></a></th>
   </tr>
   <tr>
-    <td><a href="https://github.com/mzafram2001/zeus" target="_blank"><img src="https://i.ibb.co/N1PX3Np/zeus-theme.png"></a></td>
-    <td><a href="https://github.com/mzafram2001/tsukuyomi" target="_blank"><img src="https://i.ibb.co/d0RppxZ/tsukuyomi-theme.png"></a></td>
-    <td><a href="#"><img src="https://i.ibb.co/MkRmv1s/skadi-theme.png" target="_blank"></a></td>
+    <td><a href="https://github.com/mzafram2001/zeus" target="_blank"><img src="https://raw.githubusercontent.com/mzafram2001/mzafram2001/main/readme-src/ZeusLogo.png"></a></td>
+    <td><a href="https://github.com/mzafram2001/tsukuyomi" target="_blank"><img src="https://raw.githubusercontent.com/mzafram2001/mzafram2001/main/readme-src/TsukuyomiLogo.png"></a></td>
+    <td><a href="#"><img src="https://raw.githubusercontent.com/mzafram2001/mzafram2001/main/readme-src/SkadiLogo.png" target="_blank"></a></td>
   </tr>
 </table>
 
@@ -67,9 +67,9 @@
     <th><a href="https://github.com/mzafram2001/my-dojo/tree/main/PHP" target="_blank"><b>My Dojo - PHP</b></a></th>
   </tr>
   <tr>
-    <td><a href="https://github.com/mzafram2001/my-dojo" target="_blank"><img src="https://i.ibb.co/6BzxQ2F/js-svgrepo-com.png"></a></td>
-    <td><a href="https://github.com/mzafram2001/my-dojo" target="_blank"><img src="https://i.ibb.co/fQjm8Sf/c-svgrepo-com.png"></a></td>
-    <td><a href="https://github.com/mzafram2001/my-dojo" target="_blank"><img src="https://i.ibb.co/C9CMQct/php-svgrepo-com.png"></a></td>
+    <td><a href="https://github.com/mzafram2001/my-dojo" target="_blank"><img src="https://raw.githubusercontent.com/mzafram2001/mzafram2001/main/readme-src/MyDojoJSLogo.png"></a></td>
+    <td><a href="https://github.com/mzafram2001/my-dojo" target="_blank"><img src="https://raw.githubusercontent.com/mzafram2001/mzafram2001/main/readme-src/MyDojoCLogo.png"></a></td>
+    <td><a href="https://github.com/mzafram2001/my-dojo" target="_blank"><img src="https://raw.githubusercontent.com/mzafram2001/mzafram2001/main/readme-src/MyDojoPHPLogo.png"></a></td>
   </tr>
 </table>
 
