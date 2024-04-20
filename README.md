@@ -47,7 +47,7 @@
   <tr>
     <td><a href="https://github.com/mzafram2001/zeus" target="_blank"><img src="https://raw.githubusercontent.com/mzafram2001/mzafram2001/main/readme-src/ZeusLogo.png"></a></td>
     <td><a href="https://github.com/mzafram2001/tsukuyomi" target="_blank"><img src="https://raw.githubusercontent.com/mzafram2001/mzafram2001/main/readme-src/TsukuyomiLogo.png"></a></td>
-    <td><a href="#"><img src="https://raw.githubusercontent.com/mzafram2001/mzafram2001/main/readme-src/SkadiLogo.png" target="_blank"></a></td>
+    <td><a href="https://github.com/mzafram2001/skadi" target="_blank"><img src="https://raw.githubusercontent.com/mzafram2001/mzafram2001/main/readme-src/SkadiLogo.png" target="_blank"></a></td>
   </tr>
 </table>
 
