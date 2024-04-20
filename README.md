@@ -42,7 +42,7 @@
   <tr>
     <th><a href="https://github.com/mzafram2001/zeus" target="_blank"><b>Zeus</b></a></th>
     <th><a href="https://github.com/mzafram2001/tsukuyomi" target="_blank"><b>Tsukuyomi</b></a></th>
-    <th><a href="#"><b>Skadi</b></a></th>
+    <th><a href="https://github.com/mzafram2001/skadi" target="_blank"><b>Skadi</b></a></th>
   </tr>
   <tr>
     <td><a href="https://github.com/mzafram2001/zeus" target="_blank"><img src="https://raw.githubusercontent.com/mzafram2001/mzafram2001/main/readme-src/ZeusLogo.png"></a></td>
