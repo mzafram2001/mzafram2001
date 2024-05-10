@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=1b837b&section=header&reversal=false" />
 
-## 👋 About Me / Sobre Mí
+## 👋 About Me / Sobrse Mí
 <div>
   🇬🇧 Hi! I'm Miguel, a passionate Full Stack Developer. My passion for technology and programming has led me to turn ideas into high performance and usability digital solutions. Currently working for <a href="https://www.suministrosgame.es" target="_blank">Suministros Game</a>. Living in Barcelona, Spain.
 </div>
