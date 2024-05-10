@@ -20,38 +20,14 @@
 <br>
 <table>
   <tr>
-    <th><a href="https://arkeos-pyrite.web.app" target="_blank"><b>Pyrite APP (REWORKING!) -> Wheatr</b></a></th>
-    <th><a href="https://olympus-zeus-app.web.app" target="_blank"><b>Zeus API + APP (REWORKING!) -> Shootr</b></a></th>
+    <th><a href="https://github.com/mzafram2001/footballr-api" target="_blank"><b>FootballR</b></a></th>
   </tr>
   <tr>
-    <td><a href="https://arkeos-pyrite.web.app" target="_blank"><img src="https://raw.githubusercontent.com/mzafram2001/mzafram2001/main/readme-src/Pyrite1.png"></a></td>
-    <td><a href="https://olympus-zeus-app.web.app" target="_blank"><img src="https://raw.githubusercontent.com/mzafram2001/mzafram2001/main/readme-src/Zeus1.png"></a></td>
+    <td><a href="https://github.com/mzafram2001/footballr-api" target="_blank"><img src="https://github.com/mzafram2001/footballr-api/blob/main/src/fotballr_logo.png"></a></td>
   </tr>
 </table>
 
-## 📙 My Themes / Mis Temas
-<div>
-  🇬🇧 Here you have a list of the themes I have developed, it doesn't have much to do with programming but I love graphic design and whenever I can I try to elaborate different color combinations for my projects.
-</div>
-<br>
-<div>
-  🇪🇸 Aquí tienes un listado de los temas que he desarrollado, no tiene mucho que ver con la programación pero me encanta el tema de diseño gráfico y siempre que puedo intento elaborar diferentes combinaciones de colores para mis proyectos.
-</div>
-<br>
-<table>
-  <tr>
-    <th><a href="https://github.com/mzafram2001/zeus" target="_blank"><b>Zeus</b></a></th>
-    <th><a href="https://github.com/mzafram2001/tsukuyomi" target="_blank"><b>Tsukuyomi</b></a></th>
-    <th><a href="https://github.com/mzafram2001/skadi" target="_blank"><b>Skadi</b></a></th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/mzafram2001/zeus" target="_blank"><img src="https://raw.githubusercontent.com/mzafram2001/mzafram2001/main/readme-src/ZeusLogo.png"></a></td>
-    <td><a href="https://github.com/mzafram2001/tsukuyomi" target="_blank"><img src="https://raw.githubusercontent.com/mzafram2001/mzafram2001/main/readme-src/TsukuyomiLogo.png"></a></td>
-    <td><a href="https://github.com/mzafram2001/skadi" target="_blank"><img src="https://raw.githubusercontent.com/mzafram2001/mzafram2001/main/readme-src/SkadiLogo.png" target="_blank"></a></td>
-  </tr>
-</table>
-
-## 🗼 My Dojo / Mi Dojo - Codewars
+<!--## 🗼 My Dojo / Mi Dojo - Codewars
 <div>
   🇬🇧 Welcome to my repository of solutions to <a href="https://www.codewars.com" target="_blank">Codewars</a> Kata! Here you will find a collection of my solutions to various Codewars programming challenges, organized by difficulty level and programming language.
 </div>
@@ -71,7 +47,7 @@
     <td><a href="https://github.com/mzafram2001/my-dojo" target="_blank"><img src="https://raw.githubusercontent.com/mzafram2001/mzafram2001/main/readme-src/MyDojoCLogo.png"></a></td>
     <td><a href="https://github.com/mzafram2001/my-dojo" target="_blank"><img src="https://raw.githubusercontent.com/mzafram2001/mzafram2001/main/readme-src/MyDojoPHPLogo.png"></a></td>
   </tr>
-</table>
+</table>-->
 
 ## 💬 Contact me / Contáctame
 <div>
