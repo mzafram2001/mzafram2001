@@ -23,7 +23,7 @@
     <th><a href="https://github.com/mzafram2001/footballr-api" target="_blank"><b>FootballR</b></a></th>
   </tr>
   <tr>
-    <td><a href="https://github.com/mzafram2001/footballr-api" target="_blank"><img src="https://github.com/mzafram2001/footballr-api/blob/main/src/fotballr_logo.png"></a></td>
+    <td><a href="https://github.com/mzafram2001/footballr-api" target="_blank"><img src="https://github.com/mzafram2001/footballr-api/blob/main/src/readme/fotballr_logo.png"></a></td>
   </tr>
 </table>
 
