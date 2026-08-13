@@ -4,7 +4,7 @@ import urllib.request
 from datetime import datetime
 
 USERNAME = "mzafram2001"
-PROFILE_REPO = "mzafram2001"  # Repositorio a ignorar
+PROFILE_REPO = "mzafram2001"
 
 
 def get_public_repos():
@@ -18,7 +18,6 @@ def get_public_repos():
 
     projects = []
     for repo in repos:
-        # Ignorar repositorios que sean forks, privados o el propio repo de perfil
         if repo["fork"] or repo["private"] or repo["name"].lower() == PROFILE_REPO.lower():
             continue
 
@@ -27,7 +26,6 @@ def get_public_repos():
         description = repo["description"] or "No description provided."
         language = f"`{repo['language']}`" if repo["language"] else "`N/A`"
 
-        # Extraer la fecha del último commit/push (formato ISO 8601: YYYY-MM-DDTHH:MM:SSZ)
         pushed_at_raw = repo["pushed_at"]
         last_updated = datetime.strptime(
             pushed_at_raw, "%Y-%m-%dT%H:%M:%SZ"
@@ -43,7 +41,6 @@ def get_public_repos():
             }
         )
 
-    # Ordenar por fecha de última actualización (los más recientes primero)
     projects.sort(key=lambda x: x["last_updated"], reverse=True)
     return projects
 
@@ -68,7 +65,6 @@ def update_readme():
     with open("README.md", "r", encoding="utf-8") as f:
         readme = f.read()
 
-    # Reemplazar el texto entre los marcadores <!-- PROJECTS_START --> y <!-- PROJECTS_END -->
     pattern = r"(<!-- PROJECTS_START -->)(.*?)(<!-- PROJECTS_END -->)"
     replacement = f"\\1\n{markdown_table}\n\\3"
     updated_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
