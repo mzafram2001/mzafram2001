@@ -11,9 +11,14 @@
 </div>
 <br>
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[f1-fantasy](https://github.com/mzafram2001/f1-fantasy)** | An open-source, automated historical dataset of F1 Fantasy statistics. | `Python` |
+| Project | Description | Stack | Last updated |
+| :--- | :--- | :--- | :--- |
+| **[f1-fantasy](https://github.com/mzafram2001/f1-fantasy)** | An open-source, automated historical dataset of F1 Fantasy statistics. | `Python` | ![Last commit](https://img.shields.io/github/last-commit/mzafram2001/f1-fantasy?style=flat-square) |
+<br>
+
+TEST
+<!-- PROJECTS_START -->
+<!-- PROJECTS_END -->
 
 ---
 
