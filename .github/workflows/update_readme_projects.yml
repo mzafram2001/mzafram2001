@@ -1,10 +1,9 @@
-name: Update Profile README Projects
+name: Update README projects table
 
 on:
   schedule:
-    # Se ejecuta todos los días a medianoche (UTC)
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Permite ejecución manual desde la pestaña Actions
+    - cron: '8 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -14,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.MY_PAT }} # Garantiza que el commit cuente en tu perfil
+          token: ${{ secrets.MY_PAT }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -22,11 +21,11 @@ jobs:
           python-version: '3.11'
 
       - name: Run script
-        run: python update_projects.py
+        run: python scripts/update_readme_projects.py
 
       - name: Commit and push changes
         run: |
           git config --local user.email "mzafram2001@gmail.com"
           git config --local user.name "mzafram2001"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: auto-update projects table in README" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "auto: Update README table" && git push)
