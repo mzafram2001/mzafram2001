@@ -18,6 +18,9 @@
 
 TEST
 <!-- PROJECTS_START -->
+| Project | Description | Stack | Last updated |
+| :--- | :--- | :--- | :--- |
+| **[f1-fantasy](https://github.com/mzafram2001/f1-fantasy)** | 🏎️ F1 Fantasy data | `Python` | 2026-08-13 |
 <!-- PROJECTS_END -->
 
 ---
