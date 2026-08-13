@@ -65,12 +65,21 @@ def update_readme():
     with open("README.md", "r", encoding="utf-8") as f:
         readme = f.read()
 
-    pattern = r"(<!-- PROJECTS_START -->)(.*?)(<!-- PROJECTS_END -->)"
-    replacement = f"\\1\n{markdown_table}\n\\3"
-    updated_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
+    # 1. Actualizar la tabla de proyectos
+    projects_pattern = r"(<!-- PROJECTS_START -->)(.*?)(<!-- PROJECTS_END -->)"
+    if re.search(projects_pattern, readme, flags=re.DOTALL):
+        readme = re.sub(projects_pattern, f"\\1\n{markdown_table}\n\\3", readme, flags=re.DOTALL)
+
+    # 2. Actualizar la fecha de última revisión ("Last checked")
+    today_str = datetime.now().strftime("%Y-%m-%d")
+    checked_pattern = r"(<!-- LAST_CHECKED_START -->)(.*?)(<!-- LAST_CHECKED_END -->)"
+    if re.search(checked_pattern, readme, flags=re.DOTALL):
+        readme = re.sub(checked_pattern, f"\\1Last checked: {today_str}\\3", readme, flags=re.DOTALL)
 
     with open("README.md", "w", encoding="utf-8") as f:
-        f.write(updated_readme)
+        f.write(readme)
+
+    print(f"Profile README updated successfully with date {today_str}!")
 
 
 if __name__ == "__main__":
