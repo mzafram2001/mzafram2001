@@ -14,9 +14,9 @@
 <!-- PROJECTS_START -->
 | Project | Description | Stack | Last updated |
 | :--- | :--- | :--- | :--- |
+| **[pull-shark](https://github.com/mzafram2001/pull-shark)** | Unlocker for "pull-shark" badge | `Python` | 2026-08-15 |
+| **[pair-extraordinaire](https://github.com/mzafram2001/pair-extraordinaire)** | Unlocker for "pair-extraordinaire" badge | `Python` | 2026-08-15 |
 | **[f1-fantasy](https://github.com/mzafram2001/f1-fantasy)** | An open-source, automated historical dataset of F1 Fantasy statistics. | `Python` | 2026-08-15 |
-| **[pair-extraordinaire](https://github.com/mzafram2001/pair-extraordinaire)** | Unlocker for "pair-extraordinaire" badge | `Python` | 2026-08-14 |
-| **[pull-shark](https://github.com/mzafram2001/pull-shark)** | Unlocker for "pull-shark" badge | `Python` | 2026-08-14 |
 <!-- PROJECTS_END -->
 
 ---
