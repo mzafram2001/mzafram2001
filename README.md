@@ -14,9 +14,9 @@
 <!-- PROJECTS_START -->
 | Project | Description | Stack | Last updated |
 | :--- | :--- | :--- | :--- |
+| **[f1-fantasy](https://github.com/mzafram2001/f1-fantasy)** | An open-source, automated historical dataset of F1 Fantasy statistics. | `Python` | 2026-08-16 |
 | **[p-e-lab](https://github.com/mzafram2001/p-e-lab)** | No description provided. | `N/A` | 2026-08-15 |
 | **[p-s-lab](https://github.com/mzafram2001/p-s-lab)** | No description provided. | `N/A` | 2026-08-15 |
-| **[f1-fantasy](https://github.com/mzafram2001/f1-fantasy)** | An open-source, automated historical dataset of F1 Fantasy statistics. | `Python` | 2026-08-15 |
 <!-- PROJECTS_END -->
 
 ---
