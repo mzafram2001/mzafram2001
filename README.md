@@ -14,8 +14,8 @@
 <!-- PROJECTS_START -->
 | Project | Description | Stack | Last updated |
 | :--- | :--- | :--- | :--- |
-| **[ea-fc](https://github.com/mzafram2001/ea-fc)** | An open-source, automated historical dataset of EA FC videogames. | `N/A` | 2026-08-30 |
-| **[f1-fantasy](https://github.com/mzafram2001/f1-fantasy)** | An open-source, automated historical dataset of F1 Fantasy statistics. | `Python` | 2026-08-30 |
+| **[ea-fc](https://github.com/mzafram2001/ea-fc)** | An open-source, automated historical dataset of EA FC videogames. | `Python` | 2026-08-31 |
+| **[f1-fantasy](https://github.com/mzafram2001/f1-fantasy)** | An open-source, automated historical dataset of F1 Fantasy statistics. | `Python` | 2026-08-31 |
 <!-- PROJECTS_END -->
 
 ---
