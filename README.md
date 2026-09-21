@@ -14,8 +14,8 @@
 <!-- PROJECTS_START -->
 | Project | Description | Stack | Last updated |
 | :--- | :--- | :--- | :--- |
-| **[f1-fantasy](https://github.com/mzafram2001/f1-fantasy)** | An open-source, automated historical dataset of F1 Fantasy statistics. | `Python` | 2026-09-20 |
-| **[ea-fc](https://github.com/mzafram2001/ea-fc)** | An open-source, automated historical dataset of EA FC videogames. | `Python` | 2026-09-18 |
+| **[ea-fc](https://github.com/mzafram2001/ea-fc)** | An open-source, automated historical dataset of EA FC videogames. | `Python` | 2026-09-21 |
+| **[f1-fantasy](https://github.com/mzafram2001/f1-fantasy)** | An open-source, automated historical dataset of F1 Fantasy statistics. | `Python` | 2026-09-21 |
 | **[fire-red](https://github.com/mzafram2001/fire-red)** | Decompilation of Pokémon FireRed / LeafGreen | `C` | 2026-09-05 |
 <!-- PROJECTS_END -->
 
