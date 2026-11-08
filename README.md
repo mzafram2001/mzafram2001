@@ -1,6 +1,6 @@
 ## 👋 About me
 <div>
-  Hi! My name is Miguel Zafra, and I'm a developer with more than four years of experience turning complex challenges into efficient digital solutions.
+  Hi! My name is Miguel Zafra, and I'm a developer with more than five years of experience turning complex challenges into efficient digital solutions.
 </div>
 
 ---
