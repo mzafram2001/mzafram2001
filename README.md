@@ -14,7 +14,7 @@
 <!-- PROJECTS_START -->
 | Project | Description | Stack | Last updated |
 | :--- | :--- | :--- | :--- |
-| **[f1-fantasy](https://github.com/mzafram2001/f1-fantasy)** | An open-source, automated historical dataset of F1 fantasy statistics. | `Python` | 2026-11-24 |
+| **[f1-fantasy](https://github.com/mzafram2001/f1-fantasy)** | An open-source, automated historical dataset of F1 fantasy statistics. | `Python` | 2026-11-25 |
 | **[f1-telemetry](https://github.com/mzafram2001/f1-telemetry)** | An open-source, automated historical dataset of F1 telemetry data. | `Python` | 2026-11-24 |
 <!-- PROJECTS_END -->
 
